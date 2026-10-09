@@ -69,11 +69,7 @@ export const akuTranslationsByRegion = {
     },
     guineaBissau: {
       pt: { language: "Portuguese", nativeName: "Português", translation: "eu" },
-      pov: {
-        language: "Guinea-Bissau Creole",
-        nativeName: "Kriol",
-        translation: "n'"
-      }
+      pov: { language: "Guinea-Bissau Creole", nativeName: "Kriol", translation: "n'" }
     },
     guineaEkuatorial: {
       es: { language: "Spanish", nativeName: "Español", translation: "yo" },
@@ -375,11 +371,7 @@ export const akuTranslationsByRegion = {
       dz: { language: "Dzongkha", nativeName: "རྫོང་ཁ", translation: "ང" }
     },
     bruneiDarussalam: {
-      ms: {
-        language: "Malay",
-        nativeName: "Bahasa Melayu",
-        translation: "saya"
-      }
+      ms: { language: "Malay", nativeName: "Bahasa Melayu", translation: "saya" }
     },
     filipina: {
       ceb: { language: "Cebuano", nativeName: "Cebuano", translation: "ako" },
@@ -437,11 +429,7 @@ export const akuTranslationsByRegion = {
       ko: { language: "Korean", nativeName: "한국어", translation: "저" }
     },
     koreaUtara: {
-      ko: {
-        language: "Korean",
-        nativeName: "한국어",
-        translation: "저"
-      }
+      ko: { language: "Korean", nativeName: "한국어", translation: "저" }
     },
     kuwait: {
       ar: { language: "Arabic", nativeName: "العربية", translation: "أنا" }
