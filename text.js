@@ -19,6 +19,9 @@ export const akuTranslationsByRegion = {
     angola: {
       kg: { language: "Kongo", nativeName: "Kikongo", translation: "mono" }
     },
+    benin: {
+      fr: { language: "French", nativeName: "Français", translation: "je" }
+    },
     botswana: {
       tn: { language: "Tswana", nativeName: "Setswana", translation: "nna" }
     },
@@ -50,6 +53,12 @@ export const akuTranslationsByRegion = {
       so: { language: "Somali", nativeName: "Soomaali", translation: "aniga" },
       ti: { language: "Tigrinya", nativeName: "ትግርኛ", translation: "ኣነ" }
     },
+    gabon: {
+      fr: { language: "French", nativeName: "Français", translation: "je" }
+    },
+    gambia: {
+      en: { language: "English", nativeName: "English", translation: "I" }
+    },
     ghana: {
       ak: { language: "Akan", nativeName: "Akan", translation: "me" },
       ee: { language: "Ewe", nativeName: "Eʋegbe", translation: "nye" },
@@ -57,6 +66,14 @@ export const akuTranslationsByRegion = {
     },
     guinea: {
       ff: { language: "Fulah", nativeName: "Fulfulde", translation: "mi" }
+    },
+    guineaBissau: {
+      pt: { language: "Portuguese", nativeName: "Português", translation: "eu" },
+      pov: {
+        language: "Guinea-Bissau Creole",
+        nativeName: "Kriol",
+        translation: "n'"
+      }
     },
     guineaEkuatorial: {
       es: { language: "Spanish", nativeName: "Español", translation: "yo" },
@@ -77,6 +94,9 @@ export const akuTranslationsByRegion = {
     },
     lesotho: {
       st: { language: "Sesotho", nativeName: "Sesotho", translation: "nna" }
+    },
+    liberia: {
+      en: { language: "English", nativeName: "English", translation: "I" }
     },
     libya: {
       ar: { language: "Arabic", nativeName: "العربية", translation: "أنا" }
@@ -107,6 +127,9 @@ export const akuTranslationsByRegion = {
     mozambik: {
       ts: { language: "Tsonga", nativeName: "Xitsonga", translation: "mina" }
     },
+    namibia: {
+      en: { language: "English", nativeName: "English", translation: "I" }
+    },
     niger: {
       ff: { language: "Fulah", nativeName: "Fulfulde", translation: "mi" },
       ha: { language: "Hausa", nativeName: "Hausa", translation: "ni" }
@@ -116,9 +139,17 @@ export const akuTranslationsByRegion = {
       ig: { language: "Igbo", nativeName: "Igbo", translation: "m" },
       yo: { language: "Yoruba", nativeName: "Yorùbá", translation: "èmi" }
     },
+    pantaiGading: {
+      fr: { language: "French", nativeName: "Français", translation: "je" },
+      bci: { language: "Baoulé", nativeName: "Baoulé", translation: "min" }
+    },
     rdKongo: {
       kg: { language: "Kongo", nativeName: "Kikongo", translation: "mono" },
       ln: { language: "Lingala", nativeName: "Lingála", translation: "ngai" }
+    },
+    republikAfrikaTengah: {
+      fr: { language: "French", nativeName: "Français", translation: "je" },
+      sg: { language: "Sango", nativeName: "Sängö", translation: "mbï" }
     },
     republikKongo: {
       ln: { language: "Lingala", nativeName: "Lingála", translation: "ngai" }
@@ -136,6 +167,10 @@ export const akuTranslationsByRegion = {
     seychelles: {
       en: { language: "English", nativeName: "English", translation: "I" },
       fr: { language: "French", nativeName: "Français", translation: "je" }
+    },
+    sierraLeone: {
+      en: { language: "English", nativeName: "English", translation: "I" },
+      kri: { language: "Krio", nativeName: "Krio", translation: "a" }
     },
     somalia: {
       so: { language: "Somali", nativeName: "Soomaali", translation: "aniga" }
@@ -339,6 +374,13 @@ export const akuTranslationsByRegion = {
     bhutan: {
       dz: { language: "Dzongkha", nativeName: "རྫོང་ཁ", translation: "ང" }
     },
+    bruneiDarussalam: {
+      ms: {
+        language: "Malay",
+        nativeName: "Bahasa Melayu",
+        translation: "saya"
+      }
+    },
     filipina: {
       ceb: { language: "Cebuano", nativeName: "Cebuano", translation: "ako" },
       ilo: { language: "Ilocano", nativeName: "Ilokano", translation: "siak" },
@@ -393,6 +435,13 @@ export const akuTranslationsByRegion = {
     },
     korea: {
       ko: { language: "Korean", nativeName: "한국어", translation: "저" }
+    },
+    koreaUtara: {
+      ko: {
+        language: "Korean",
+        nativeName: "한국어",
+        translation: "저"
+      }
     },
     kuwait: {
       ar: { language: "Arabic", nativeName: "العربية", translation: "أنا" }
