@@ -1,4 +1,3 @@
-// akuTranslations.js
 export const akuTranslations = {
   id: { language: "Indonesian", nativeName: "Bahasa Indonesia", translation: "aku" },
   ar: { language: "Arabic", nativeName: "العربية", translation: "أنا" },
@@ -7,7 +6,6 @@ export const akuTranslations = {
   fr: { language: "French", nativeName: "Français", translation: "je" },
   ru: { language: "Russian", nativeName: "Русский", translation: "я" },
   es: { language: "Spanish", nativeName: "Español", translation: "yo" },
-
   pt: { language: "Portuguese", nativeName: "Português", translation: "eu" },
   de: { language: "German", nativeName: "Deutsch", translation: "ich" },
   it: { language: "Italian", nativeName: "Italiano", translation: "io" },
@@ -34,8 +32,7 @@ export const akuTranslations = {
   ko: { language: "Korean", nativeName: "한국어", translation: "나" },
   ms: { language: "Malay", nativeName: "Bahasa Melayu", translation: "aku" },
   tl: { language: "Tagalog/Filipino", nativeName: "Tagalog", translation: "ako" },
-  sw: { language: "Swahili", nativeName: "Kiswahili", translation: "mimi" }
-    
+  sw: { language: "Swahili", nativeName: "Kiswahili", translation: "mimi" },
   af: { language: "Afrikaans", nativeName: "Afrikaans", translation: "ek" },
   sq: { language: "Albanian", nativeName: "Shqip", translation: "unë" },
   am: { language: "Amharic", nativeName: "አማርኛ", translation: "እኔ" },
@@ -105,7 +102,6 @@ export const akuTranslations = {
   yi: { language: "Yiddish", nativeName: "ייִדיש", translation: "איך" },
   yo: { language: "Yoruba", nativeName: "Yorùbá", translation: "èmi" },
   zu: { language: "Zulu", nativeName: "isiZulu", translation: "mina" },
-
   as: { language: "Assamese", nativeName: "অসমীয়া", translation: "মই" },
   ay: { language: "Aymara", nativeName: "Aymar aru", translation: "naya" },
   bm: { language: "Bambara", nativeName: "Bamanankan", translation: "ne" },
@@ -139,6 +135,20 @@ export const akuTranslations = {
   chr: { language: "Cherokee", nativeName: "ᏣᎳᎩ", translation: "ᎠᏯ" },
   nv: { language: "Navajo", nativeName: "Diné bizaad", translation: "shí" },
   oj: { language: "Ojibwe", nativeName: "Anishinaabemowin", translation: "niin" },
+  bo: { language: "Tibetan", nativeName: "བོད་ཡིག", translation: "ང" },
+  dz: { language: "Dzongkha", nativeName: "རྫོང་ཁ", translation: "ང" },
+  bal: { language: "Balochi", nativeName: "بلوچی", translation: "من" },
+  pi: { language: "Pali", nativeName: "पालि", translation: "अहं" },
+  hil: { language: "Hiligaynon", nativeName: "Hiligaynon", translation: "ako" },
+  war: { language: "Waray", nativeName: "Winaray", translation: "ako" },
+  pam: { language: "Kapampangan", nativeName: "Kapampangan", translation: "aku" },
+  bcl: { language: "Bikol", nativeName: "Bikol", translation: "ako" },
+  tpi: { language: "Tok Pisin", nativeName: "Tok Pisin", translation: "mi" },
+  hmo: { language: "Hiri Motu", nativeName: "Hiri Motu", translation: "lau" },
+  gcf: { language: "Guadeloupean Creole", nativeName: "Kréyol", translation: "mwen" },
+  mfe: { language: "Mauritian Creole", nativeName: "Kreol Morisien", translation: "mo" },
+  rcf: { language: "Réunion Creole", nativeName: "Kréol Réyoné", translation: "mwin" },
+  ban: { language: "Balinese", nativeName: "Basa Bali", translation: "tiang" }
 };
 
 export function translateAku(lang = "en") {
