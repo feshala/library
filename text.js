@@ -1,5 +1,6 @@
 export const akuTranslationsByRegion = {
-  asia: {
+  
+  asia: { /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     indonesia: {
       id: { language: "Indonesian", nativeName: "Bahasa Indonesia", translation: "saya" },
       jv: { language: "Javanese", nativeName: "Basa Jawa", translation: "kula" },
@@ -177,7 +178,7 @@ export const akuTranslationsByRegion = {
     }
   },
 
-  afrika: {
+  afrika: { /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     nigeria: {
       ha: { language: "Hausa", nativeName: "Hausa", translation: "ni" },
       ig: { language: "Igbo", nativeName: "Igbo", translation: "m" },
@@ -348,7 +349,7 @@ export const akuTranslationsByRegion = {
     }
   },
 
-  eropa: {
+  eropa: { /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     inggris: {
       en: { language: "English", nativeName: "English", translation: "I" },
       cy: { language: "Welsh", nativeName: "Cymraeg", translation: "mi" },
@@ -522,7 +523,7 @@ export const akuTranslationsByRegion = {
     }
   },
 
-  amerikaUtara: {
+  amerikaUtara: { /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     amerikaSerikat: {
       en: { language: "English", nativeName: "English", translation: "I" },
       es: { language: "Spanish", nativeName: "Español", translation: "yo" },
@@ -615,7 +616,7 @@ export const akuTranslationsByRegion = {
     }
   },
 
-  amerikaSelatan: {
+  amerikaSelatan: { /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     brasil: {
       pt: { language: "Portuguese", nativeName: "Português", translation: "eu" }
     },
@@ -664,7 +665,7 @@ export const akuTranslationsByRegion = {
     }
   },
 
-  oseania: {
+  oseania: { /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     australia: {
       en: { language: "English", nativeName: "English", translation: "I" }
     },
